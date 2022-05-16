@@ -1,4 +1,4 @@
-package com.upar24.socialnetworkcompose.ui.theme
+package com.upar24.socialnetworkcompose.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
